@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\PRN 212\secon project\bin\Debug\net8.0\SecondProject.exe
+C:\Users\PC\source\repos\PRN 212\secon project\bin\Debug\net8.0\SecondProject.deps.json
+C:\Users\PC\source\repos\PRN 212\secon project\bin\Debug\net8.0\SecondProject.runtimeconfig.json
+C:\Users\PC\source\repos\PRN 212\secon project\bin\Debug\net8.0\SecondProject.dll
+C:\Users\PC\source\repos\PRN 212\secon project\bin\Debug\net8.0\SecondProject.pdb
+C:\Users\PC\source\repos\PRN 212\secon project\obj\Debug\net8.0\SecondProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\PRN 212\secon project\obj\Debug\net8.0\SecondProject.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PRN 212\secon project\obj\Debug\net8.0\SecondProject.AssemblyInfo.cs
+C:\Users\PC\source\repos\PRN 212\secon project\obj\Debug\net8.0\SecondProject.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PRN 212\secon project\obj\Debug\net8.0\SecondProject.dll
+C:\Users\PC\source\repos\PRN 212\secon project\obj\Debug\net8.0\refint\SecondProject.dll
+C:\Users\PC\source\repos\PRN 212\secon project\obj\Debug\net8.0\SecondProject.pdb
+C:\Users\PC\source\repos\PRN 212\secon project\obj\Debug\net8.0\SecondProject.genruntimeconfig.cache
+C:\Users\PC\source\repos\PRN 212\secon project\obj\Debug\net8.0\ref\SecondProject.dll

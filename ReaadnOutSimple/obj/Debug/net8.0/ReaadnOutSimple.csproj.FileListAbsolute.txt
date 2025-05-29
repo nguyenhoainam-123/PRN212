@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\PRN 212\ReaadnOutSimple\obj\Debug\net8.0\ReaadnOutSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\PRN 212\ReaadnOutSimple\obj\Debug\net8.0\ReaadnOutSimple.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PRN 212\ReaadnOutSimple\obj\Debug\net8.0\ReaadnOutSimple.AssemblyInfo.cs
+C:\Users\PC\source\repos\PRN 212\ReaadnOutSimple\obj\Debug\net8.0\ReaadnOutSimple.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PRN 212\ReaadnOutSimple\bin\Debug\net8.0\ReaadnOutSimple.exe
+C:\Users\PC\source\repos\PRN 212\ReaadnOutSimple\bin\Debug\net8.0\ReaadnOutSimple.deps.json
+C:\Users\PC\source\repos\PRN 212\ReaadnOutSimple\bin\Debug\net8.0\ReaadnOutSimple.runtimeconfig.json
+C:\Users\PC\source\repos\PRN 212\ReaadnOutSimple\bin\Debug\net8.0\ReaadnOutSimple.dll
+C:\Users\PC\source\repos\PRN 212\ReaadnOutSimple\bin\Debug\net8.0\ReaadnOutSimple.pdb
+C:\Users\PC\source\repos\PRN 212\ReaadnOutSimple\obj\Debug\net8.0\ReaadnOutSimple.dll
+C:\Users\PC\source\repos\PRN 212\ReaadnOutSimple\obj\Debug\net8.0\refint\ReaadnOutSimple.dll
+C:\Users\PC\source\repos\PRN 212\ReaadnOutSimple\obj\Debug\net8.0\ReaadnOutSimple.pdb
+C:\Users\PC\source\repos\PRN 212\ReaadnOutSimple\obj\Debug\net8.0\ReaadnOutSimple.genruntimeconfig.cache
+C:\Users\PC\source\repos\PRN 212\ReaadnOutSimple\obj\Debug\net8.0\ref\ReaadnOutSimple.dll
