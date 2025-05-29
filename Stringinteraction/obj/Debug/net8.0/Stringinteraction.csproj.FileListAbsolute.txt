@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\PRN 212\Stringinteraction\bin\Debug\net8.0\Stringinteraction.exe
+C:\Users\PC\source\repos\PRN 212\Stringinteraction\bin\Debug\net8.0\Stringinteraction.deps.json
+C:\Users\PC\source\repos\PRN 212\Stringinteraction\bin\Debug\net8.0\Stringinteraction.runtimeconfig.json
+C:\Users\PC\source\repos\PRN 212\Stringinteraction\bin\Debug\net8.0\Stringinteraction.dll
+C:\Users\PC\source\repos\PRN 212\Stringinteraction\bin\Debug\net8.0\Stringinteraction.pdb
+C:\Users\PC\source\repos\PRN 212\Stringinteraction\obj\Debug\net8.0\Stringinteraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\PRN 212\Stringinteraction\obj\Debug\net8.0\Stringinteraction.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PRN 212\Stringinteraction\obj\Debug\net8.0\Stringinteraction.AssemblyInfo.cs
+C:\Users\PC\source\repos\PRN 212\Stringinteraction\obj\Debug\net8.0\Stringinteraction.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PRN 212\Stringinteraction\obj\Debug\net8.0\Stringinteraction.dll
+C:\Users\PC\source\repos\PRN 212\Stringinteraction\obj\Debug\net8.0\refint\Stringinteraction.dll
+C:\Users\PC\source\repos\PRN 212\Stringinteraction\obj\Debug\net8.0\Stringinteraction.pdb
+C:\Users\PC\source\repos\PRN 212\Stringinteraction\obj\Debug\net8.0\Stringinteraction.genruntimeconfig.cache
+C:\Users\PC\source\repos\PRN 212\Stringinteraction\obj\Debug\net8.0\ref\Stringinteraction.dll

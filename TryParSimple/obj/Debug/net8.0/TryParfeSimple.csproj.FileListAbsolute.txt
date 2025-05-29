@@ -1,0 +1,4 @@
+C:\Users\PC\source\repos\PRN 212\TryParSimple\obj\Debug\net8.0\TryParfeSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\PRN 212\TryParSimple\obj\Debug\net8.0\TryParfeSimple.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PRN 212\TryParSimple\obj\Debug\net8.0\TryParfeSimple.AssemblyInfo.cs
+C:\Users\PC\source\repos\PRN 212\TryParSimple\obj\Debug\net8.0\TryParfeSimple.csproj.CoreCompileInputs.cache
