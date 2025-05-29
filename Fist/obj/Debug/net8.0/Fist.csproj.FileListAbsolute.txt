@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\PRN 212\Fist\obj\Debug\net8.0\Fist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\PRN 212\Fist\obj\Debug\net8.0\Fist.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PRN 212\Fist\obj\Debug\net8.0\Fist.AssemblyInfo.cs
+C:\Users\PC\source\repos\PRN 212\Fist\obj\Debug\net8.0\Fist.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PRN 212\Fist\bin\Debug\net8.0\Fist.exe
+C:\Users\PC\source\repos\PRN 212\Fist\bin\Debug\net8.0\Fist.deps.json
+C:\Users\PC\source\repos\PRN 212\Fist\bin\Debug\net8.0\Fist.runtimeconfig.json
+C:\Users\PC\source\repos\PRN 212\Fist\bin\Debug\net8.0\Fist.dll
+C:\Users\PC\source\repos\PRN 212\Fist\bin\Debug\net8.0\Fist.pdb
+C:\Users\PC\source\repos\PRN 212\Fist\obj\Debug\net8.0\Fist.dll
+C:\Users\PC\source\repos\PRN 212\Fist\obj\Debug\net8.0\refint\Fist.dll
+C:\Users\PC\source\repos\PRN 212\Fist\obj\Debug\net8.0\Fist.pdb
+C:\Users\PC\source\repos\PRN 212\Fist\obj\Debug\net8.0\Fist.genruntimeconfig.cache
+C:\Users\PC\source\repos\PRN 212\Fist\obj\Debug\net8.0\ref\Fist.dll
